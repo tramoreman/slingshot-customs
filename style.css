@@ -135,3 +135,38 @@
  padding-top: 5px;
  
  }
+ 
+ /* card image height */
+  .card-img-top {
+	  height: 220px;
+	  
+	 
+  }
+  
+  
+  }
+   .card-img-side {
+	  height: 250px;
+	 
+  }
+  
+  .card-body {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    min-height: 1px;
+    padding: 0px;
+}
+
+.card {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 0px;
+    border-radius: .25rem;
+}
