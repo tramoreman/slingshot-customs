@@ -79,3 +79,50 @@
  font-size: 30px;
  }
  
+.section-1 {
+ 
+ background-color: white; 
+ height: auto;
+ color: black;
+ padding-bottom: 20px;
+ padding-top: 30px;
+ 
+ }
+ 
+  .section-2 {
+ 
+ background-color: grey; 
+ height: auto;
+ color: black;
+ padding-bottom: 20px;
+ padding-top: 30px;
+ margin-bottom: 0px;
+ }
+ 
+ .section-3 {
+ 
+ background-color: white; 
+ height: auto;
+ color: black;
+ padding-bottom: 10px;
+ padding-top: 30px;
+ }
+ 
+  .section-4 {
+ 
+ background-color: grey; 
+ height: auto;
+ color: black;
+ padding-bottom: 20px;
+ padding-top: 30px;
+ }
+ 
+   .section-5 {
+ 
+ background-color: white; 
+ height: auto;
+ color: black;
+ padding-bottom: 20px;
+ padding-top: 30px;
+ }
+ 
