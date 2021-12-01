@@ -203,3 +203,11 @@ a:active {
   color: red;
   text-decoration: none;
 }
+
+@media screen and (max-width: 992px) {
+ .navbar-expand-sm .navbar-nav .nav-link {
+	Margin-left: 0rem;
+	margin-right: 0rem;
+	
+}
+  }
