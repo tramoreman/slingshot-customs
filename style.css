@@ -55,3 +55,27 @@
     margin-bottom: 30px;
 }
 
+.jumbotron {
+ background: url(images/header.jpg) no-repeat center center; 
+ background-size: cover; 
+ background-color: transparent;
+ height: 500px; 
+ margin-bottom: 0px;
+ 
+ } 
+ 
+ .jumbotron .col-md-12 {
+	 padding: 100px;
+	 width: auto;
+	 
+ }
+
+ .jumbotron h1 {
+ font-size: 80px;
+ color: white;
+ }
+ 
+ .jumbotron h3 {
+ font-size: 30px;
+ }
+ 
